@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MysushistoryApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MysushistoryApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(MysushistoryApplication.class, args);
+  }
 }
