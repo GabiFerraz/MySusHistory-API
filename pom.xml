@@ -121,11 +121,10 @@
 				<version>0.8.10</version>
 				<configuration>
 					<excludes>
-						<exclude>**/com/api/mysushistory/core/dto/**</exclude>
+						<exclude>**/com/api/mysushistory/core/domain/exception/ErrorDetail**</exclude>
 						<exclude>**/com/api/mysushistory/entrypoint/config/**</exclude>
 						<exclude>**/com/api/mysushistory/presenter/**</exclude>
 						<exclude>**/com/api/mysushistory/MysushistoryApplication**</exclude>
-						<exclude>**/com/api/mysushistory/core/domain/exception/ErrorDetail**</exclude>
 					</excludes>
 				</configuration>
 				<executions>
