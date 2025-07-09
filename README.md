@@ -75,10 +75,6 @@ e acessar localmente o banco através do endpoint:
 - **User Name**: gm
 - **Password**:
 
-Os endpoints estão documentados via **Swagger**:
-- **Swagger UI**: http://localhost:8080/swagger-ui/index.html
-- **Swagger JSON**: http://localhost:8080/v3/api-docs
-
 ### Possibilidades de Chamadas da API
 1. **Cadastro do Paciente:**
 ```json
